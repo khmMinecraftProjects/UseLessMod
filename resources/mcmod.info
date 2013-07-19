@@ -1,0 +1,28 @@
+[
+{
+  "modid": "UselessMod",
+  
+"name": "UseLess Mod",
+  
+"description": "",
+"version": "Rev. 1",
+  
+"mcversion": "1.6.2",
+  
+"logoFile": "/logo.png",
+  
+"url": "http://adf.ly/Q3KR3",
+  
+"updateUrl": "",
+  
+"authors": ["khmDEV"],
+ 
+"credits": "",
+ 
+"parent": "",
+ 
+"screenshots": [],
+  
+"dependencies": []
+}
+]
