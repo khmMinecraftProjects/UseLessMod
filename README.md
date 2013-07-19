@@ -1,11 +1,5 @@
 ﻿UseLess MOD
-
 =========
-
-
-Mod para Minecraft basado en la API Forge 
-
-
 
 Rev. 1:
 
