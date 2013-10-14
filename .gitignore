@@ -1,4 +1,3 @@
-
 #################
 ## Eclipse
 #################
@@ -11,12 +10,13 @@
 /cpw
 /ibxm
 /net
-/pulsecode
+/paulsecode
 fmlversion.properties
 forge_logo.png
 mcp.logo
-mcmod.info
+mcpmod.info
 Start.java
+deobfuscation_data-1.6.2.lzma
 
 #################
 ## EclipseAux
