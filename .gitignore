@@ -1,5 +1,25 @@
+
 #################
 ## Eclipse
+#################
+*.class
+*.jar
+*.ear
+*.war
+*.cfg
+
+/cpw
+/ibxm
+/net
+/pulsecode
+fmlversion.properties
+forge_logo.png
+mcp.logo
+mcmod.info
+Start.java
+
+#################
+## EclipseAux
 #################
 
 *.pydevproject
