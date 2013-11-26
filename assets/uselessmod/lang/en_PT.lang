@@ -1,0 +1,17 @@
+language.name=English
+
+language.region=PT
+language.code=en_PT
+
+
+item.BastonMoises.name=Baston Moises
+block.BlockTransparente.name=NULL
+block.Ambar.name=Ambar
+tile.BlockTransparente.name=NULL
+tile.Ambar.name=Ambar
+item.BombAmbar.name=Bomba de Ambar
+item.PiesJesus.name=Pies de Jesus
+item.RayoZeus.name=Rayo de Zeus
+itemGroup.UselessMod=UsseLessMod
+item.Botas.name=Botas Antigravitatorias
+item.Lanzador.name=Lanza misiles teledirigido
